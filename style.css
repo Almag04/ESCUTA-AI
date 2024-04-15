@@ -59,3 +59,8 @@ body{
 .playlist li:hover {
     background-color: #f9f9f9;
 }
+header{
+    display: flex;
+  align-items: center;  
+  justify-content: center;
+}
